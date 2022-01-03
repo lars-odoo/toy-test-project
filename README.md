@@ -1,2 +1,2 @@
-# toy-test-proyect
+# toy-test-project
 Lorem ipsum ...
